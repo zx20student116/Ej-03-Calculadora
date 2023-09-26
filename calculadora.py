@@ -9,7 +9,12 @@ def sumar():
 
 def restar():
  print("El resultado de su resta es:")
- print(num1+num2)
+ print(num1-num2)
+
+def multiplicacion():
+ print("El resultado de su resta es:")
+ print(num1*num2)
 
 sumar()
 restar()
+multiplicacion()
