@@ -1,3 +1,5 @@
+#!C:\Users\zx20student116\AppData\Local\Programs\Python\Python311\python.exe
+
 num1 = int(input("Escriba el primer número: "))
 num2 = int(input("Escriba el segundo número: "))
 
