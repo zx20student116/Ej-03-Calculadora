@@ -7,7 +7,6 @@ num2 = int(input("Escriba el segundo número: "))
 
 def sumar():
     print("El resultado de su suma es:")
-    # esta es la modificación de la suma
     print(num1 + num2)
 
 def restar():
